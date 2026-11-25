@@ -1,0 +1,6 @@
+order_id,garment,order_date,delivery_date,quantity,estimated_hours,completed_hours,status,priority
+T001,Men's Shirt,2026-11-20,2026-11-27,2,4,2,stitching,normal
+T002,Women's Blouse,2026-11-21,2026-11-26,1,3.5,1,cutting,urgent
+T003,School Uniform,2026-11-21,2026-11-29,3,6,3,stitching,normal
+T004,Men's Trousers,2026-11-22,2026-11-28,2,5,0,received,normal
+T005,Salwar Suit,2026-11-22,2026-11-25,1,7,4,stitching,urgent
