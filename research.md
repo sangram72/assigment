@@ -19,15 +19,14 @@
 
 **Target User:** An independent local tailor or tailoring shop owner.
 
-**Shop Name:** [Fill in after identifying the shop]
+**Shop Name:** Regent trailor
 
-**Location:** [Actual shop locality]
+**Location:** near durganagr station kolkata -700028
 
-**Person:** [Actual tailor's name, with permission]
+**Person:** regent trailor
 
-**Role:** Tailor / Shop Owner
+**Role:** shop owner
 
-**Existing Workflow:** Yet to be investigated.
 
 My objective is to understand how this person currently records customer orders, tracks garment progress, and manages delivery commitments.
 
